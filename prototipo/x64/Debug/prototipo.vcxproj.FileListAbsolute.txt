@@ -1,0 +1,2 @@
+C:\Users\11\source\repos\prototipo\x64\Debug\raylib.dll
+C:\Users\11\source\repos\prototipo\prototipo\x64\Debug\prototipo.vcxproj.Up2Date
